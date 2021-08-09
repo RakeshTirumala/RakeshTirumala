@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RakeshTirumala
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning about machine learning and did few projects related to open-cv
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning about machine learning and did few projects.
+-
 - 📫 How to reach me? Mail to rakeshhtirumala@gmail.com
 
 <!---
