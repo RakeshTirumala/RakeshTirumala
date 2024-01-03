@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RakeshTirumala
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Android Development.
+- 🌱 I’m currently learning React Native.
 -
 - 📫 How to reach me? Mail to rakeshhtirumala@gmail.com
 
