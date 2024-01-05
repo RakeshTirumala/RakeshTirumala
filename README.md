@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OutlayApp](https://github.com/RakeshTirumala/OutlayApp)
 
-- 🌱 I’m currently learning **React Native, GraphQL.**
+- 🌱 I’m currently learning **React Native, Django.**
 
 - 💬 Ask me about **Full Stack Development**
 
