@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshtirumala&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshtirumala" /> </p>
 
 
-- 🔭 I’m currently working on [OutlayApp](https://github.com/RakeshTirumala/OutlayApp)
+- 🔭 I’m currently working on ConnectMe, a social networking application (https://github.com/RakeshTirumala/connectme)
 
 - 💬 Ask me about **Full Stack Development**
 
